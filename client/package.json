@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "pwa-text-editor",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
