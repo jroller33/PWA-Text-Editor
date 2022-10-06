@@ -3,7 +3,7 @@
     "browser": true
   },
   "rules": {
-    // Override our default settings just for this directory
+    // override default settings for this directory
     "eqeqeq": "warn",
     "strict": "off",
     "import/no-extraneous-dependencies": "off",
