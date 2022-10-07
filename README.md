@@ -1,13 +1,26 @@
 # PWA Text Editor
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+## Description
 
-## 🚧 under development 🚧
-```
-- single page PWA, runs in the browser
-- can be installed and functions offline
-- bundled with webpack
-- service worker with workbox that caches static assets
-- use babel for async/await
-- have a generated manifest.json using WebpackPwaManifest plugin
-- use IndexedDB to create an object store, include both GET and PUT methods
-- use idb package, wraps around IndexedDB api
-```
+## Table of Contents
+- [Usage](#usage)
+- [Deployed Link](#deployed-link)
+- [Contribution](#contribution)
+- [License](#license)
+- [Contact](#contact)
+
+
+## Usage
+
+## Deployed Link
+https://young-hamlet-07525.herokuapp.com/
+
+## Contribution
+You can contribute [here](https://github.com/jroller33/PWA-Text-Editor).
+
+## License
+This project is licensed under the [MIT License](./LICENSE).
+
+## Contact
+[GitHub](https://github.com/jroller33)
+
