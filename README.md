@@ -2,6 +2,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
+This is a simple text editor that runs in the browser. It is a single-page PWA that features several data persistence techniques, 
+can be installed, and functions offline. 
+
 ## Table of Contents
 - [Usage](#usage)
 - [Deployed Link](#deployed-link)
